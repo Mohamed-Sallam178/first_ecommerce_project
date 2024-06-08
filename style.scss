@@ -1,0 +1,68 @@
+// START FIXER PROPERTIES 
+:root{
+    --main-color: #153448;
+    --secondry-color: #3C5B6F;
+    --third-color: #948979;
+    --forth-color: #DFD0B8;
+}
+@font-face{
+    font-family: 'cairo';
+    src: url(Cairo-VariableFont_slnt\,wght.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cairo,sans-serif;
+}
+body{
+    background-color: var(--main-color);
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 50px;
+    line-height: 64px;
+}
+h2{
+    font-size: 46px;
+}
+h4{
+    font-size: 20px;
+}
+h6{
+    font-size: 12px;
+}
+p{
+    font-size: 16px;
+    color: var(--forth-color);
+}
+
+
+// START HEADER 
+
+
+
+
+
+
+// START ANIMATION 
+
+
+
+
+
+
+
+
+// START MEDIA FOR ALL DEVICES 
+
+
+
+
+
+
